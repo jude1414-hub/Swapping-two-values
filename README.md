@@ -18,12 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-![image](https://github.com/user-attachments/assets/fc59eebc-c811-4c13-b5e7-f402f9092524)
-
+    # Developed by:Jude Clement Jose
+    # Register no:24005310
+    surya=int(input())
+    vijay=int(input())
+    print("Swapped values are: {} {}".format(vijay,surya))
 
 ## RESULT:
-![Screenshot 2024-10-26 143000](https://github.com/user-attachments/assets/dd39a475-5ffc-449e-989f-014751d34aac)
-
+![alt text](<Screenshot 2024-12-02 183653-1.png>)
 
 Thus the swapping of two values are successfully executed
 
