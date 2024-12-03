@@ -19,13 +19,11 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-    a=(input())
-    b=(input())
-    temp=a
-    a=b
-    b=temp
-    print(f"Swapped values are: {a} {b}")
-
+    # Developed by:Jude Clement Jose
+    # Register no:24005310
+    surya=int(input())
+    vijay=int(input())
+    print("Swapped values are: {} {}".format(vijay,surya))
 ## OUTPUT:
 ![Result pic](result.png)
 
